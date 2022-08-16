@@ -1,2 +1,4 @@
-# AT4PM
-Assistive Technologies for Process Mining
+This is a test.
+
+* [Solutions](./Solutions.md)
+* [Experiments settings and use](./Experiments.md)
