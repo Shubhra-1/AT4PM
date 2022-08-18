@@ -83,14 +83,14 @@ It is an eye tracking device that identify the point at which the user look at �
 <img src="./images/S14%20EyeTrackingSystem.png" width="280" title="Tobii Eye tracking System" />
 
 ## S15. Google Chrome apps and extensions
-These are add on features in Google Chrome browser and Firefox that provide extra features to users. It is useful for users who don’t have the dexterity required for moving and clicking the mouse. A simple hovering over an item can perform the click function\cite{ok2019digital,GoogleChromeApps}. There are several extensions. We only explain one here, i.e., \textit{Vimium/Caret-browsing}. It is useful for users who cannot use the mouse for pointing but can use regular keyboard.
+These are add on features in Google Chrome browser and Firefox that provide extra features to users. It is useful for users who don’t have the dexterity required for moving and clicking the mouse. A simple hovering over an item can perform the click function. There are several extensions. We only explain one here, i.e. Vimium. It is useful for users who cannot use the mouse for pointing but can use regular keyboard.
 
 <img src="./images/S15%20Vimium_Extension.jpg" width="580" title="Vimium" />
 <img src="./images/S15%20Vimium_Help.jpg" width="580" title="Vimium" />
 
 
 ## S16. Expanded keyboards 
-These are keyboards with extra space between keys. They are useful for users who is not able to reach closely placed keys of a regular keyboard\cite{turpin2005evaluation}.
+These are keyboards with extra space between keys. They are useful for users who is not able to reach closely placed keys of a regular keyboard.
 
 <img src="./images/S16%20Expanded_keyboards.png" width="280" title="Expanded keyboards" />
 
@@ -105,53 +105,55 @@ These are keyboards with extra space between keys. They are useful for users who
 <img src="./images/S18%20Virtual_keyboard.png" width="280" title="Virtual keyboards" />
 
 ## S19. Morse code input
- It is a software that controls the functions of keyboard and mouse through voice codes. It is useful for users who can communicate (vocally) with the computer using predefined codes that translate in an action\cite{yang2003morse,yang2000adaptive}.
+ It is a software that controls the functions of keyboard and mouse through voice codes. It is useful for users who can communicate (vocally) with the computer using predefined codes that translate in an action.
 
 <img src="./images/S19%20Morse_code.png" width="374" title="Morse Code" />
 
 ## S20. Speech recognition input
- It is a software feature that performs functions like mouse click using voice control. An example is Mouse Grid in windows 10 that partition the screen into grids and users can click or perform other functions on these grids using voice\cite{haque2013adjustable,hawley2002speech,chanjaradwichai2010design,zhu2010investigating}. 
+ It is a software feature that performs functions like mouse click using voice control. An example is Mouse Grid in windows 10 that partition the screen into grids and users can click or perform other functions on these grids using voice. 
 
 <img src="./images/S20%20Mouse_grid.png" width="580" title="Mouse grid" />
 
 
 ## S21. Abbreviation expansion (Macro)
- It is a software feature that perform some predefined functions like mouse click in addition to convert voice to text. It is useful for user who needs to type a document and cannot use the upper limbs. It helps in quickening the process by use of abbreviations expanding into text\cite{cai2022context}.
+ It is a software feature that perform some predefined functions like mouse click in addition to convert voice to text. It is useful for user who needs to type a document and cannot use the upper limbs. It helps in quickening the process by use of abbreviations expanding into text.
 
 <img src="./images/S21%20Abbreviation_expander.png" width="580" title="Abbreviation expander" />
 
 ## S22. Text help systems 
-It is a software that converts voice to text and can also read a text. It supports writing mathematical expressions as well. It is useful for users with no upper limb movement but having the voice control\cite{barbetta2007learning}.
+It is a software that converts voice to text and can also read a text. It supports writing mathematical expressions as well. It is useful for users with no upper limb movement but having the voice control.
 
 <img src="./images/S22%20Text_Help_Systems.png" width="1200" title="Text help systems" />
 
 
 ## S23. Kinect-based framework
- It is a software that convert gestures to functions like mouse click. It is useful for user with no voice control but ability to make gestures using the head\cite{chang2016kinect}.
+ It is a software that convert gestures to functions like mouse click. It is useful for user with no voice control but ability to make gestures using the head.
 
 <img src="./images/S23%20Kinect_based_framework.png" width="280" title="Kinect-based framework" />
 
 ## S24. Neuroprostheses and Brain-Computer interfaces (BCI)
- It is a device that maps the brain signals to computer functions. It can be used by users with no movement in the upper limb and no voice control\cite{ramos2012proprioceptive}.
+ It is a device that maps the brain signals to computer functions. It can be used by users with no movement in the upper limb and no voice control.
 
 <img src="./images/S24%20BCI.png" width="280" title="BCI" />
 
 ## S25. EPOC+
- It is a device that performs functions lick mouse click based on signals received from neuro-headset and facial expressions\cite{vsumak2017design}. It is useful for users with no movement in the upper limb and no voice control, but able to make some facial expressions. 
+ It is a device that performs functions lick mouse click based on signals received from neuro-headset and facial expressions. It is useful for users with no movement in the upper limb and no voice control, but able to make some facial expressions. 
 
 <img src="./images/S25%20EPOC%2B.png" width="280" title="EPOC+" />
 
 ## S26. Scanning documents into accessible computers 
-It is a service performed by others to scan physical documents and make it accessible for users\cite{burgstahler2002working,fichten2009disabilities}.
+Scanning generates a PDF document that is a combination of "images" of the pages scanned. It is difficult for the users to copy, paste or edit these scanned documents. Therefore, they need to be converted into electronic text by optical character recognition (OCR) software for accessibility.
+
+<img src="./images/S26%20OCR.png" width="490" title="OCR" />
 
 ## S27. Electronic reading 
-It is a software that reads the text\cite{burgstahler2002working}.
+It is a software that reads the text. It helps in enabling the user in accessing the documents including shifting pages etc.
 
 ## S28. Electronic references 
-These are software features that enable managing citations and referencing documents electronically. \cite{burgstahler2002working}.
+These are software features that enable managing citations and referencing documents electronically. These electronic libraries and e-books ensure citations.
 
 ## S29. Virtual assistance 
-It is a software that enable users to perform different functions like opening applications, taking dictations etc., working  with voice commands~\cite{correia2019virtual,siebra2018virtual}.
+It is a tool that enable users to perform different functions like opening applications, taking dictations and much more, simply by  the use of voice commands.
 
 
 
