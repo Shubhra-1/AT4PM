@@ -4,25 +4,24 @@ This section elaborates the setup and also provides screenshots of how different
 ##  Setups
 
 ### (S06) Sticky keys
-The Sticky Keys is enabled and set accordingly:
-
+It is a software feature in windows 10 that enables users to press key combinations in a sequence instead of pressing them simultaneously. It is useful when the user has partial ability to type on regular keyboards.The Sticky Keys is enabled and set accordingly:
 
 <img src="./images/S06%20Sticky%20Keys.png" width="580" title="S06" />
 
 ### (S08) External Buttons
-The External Buttons are connected at port ‘A’ (Translating Left Click) and port ‘B’ (Translating Right Click):
+They are buttons that enables users to perform functions like mouse keys or key board combination keys. The function can be configured by user through JoyToKey program. They need to have XBox Adaptive Controller as the adapter as well. They are useful when users cannot perform these functions.The External Buttons are connected at port ‘A’ (Translating Left Click) and port ‘B’ (Translating Right Click):
 
 <img src="./Evaluation_screenshots/ExternalButton_InXAC.png" width="580" title="S08" />
 
 
 ### (S10) Joy Stick
-The Joystick is connected with the PC via USB cable as seen below:
+It is a pointing device like mouse but having bigger surface area that enables users to control the cursor movement easier. It is useful when the user has trouble with the mouse and the mouse pad due to the fast and erratic movement of the mouse.The Joystick is connected with the PC via USB cable as seen below:
 
 <img src="./Evaluation_screenshots/Joystick_Settings.png" width="580" title="S10" />
 
 
 ### (S11) JoyToKey program
-Here, you can find how JoyToKey is set to support the click, hold, and Modifier Keys:
+It is a configuration device that enables definition of different functions like mouse click or combination keys press for different devices including External buttons and Joy Sticks.Here, you can find how JoyToKey is set to support the click and hold functions:
 
 #### Click Settings
 
@@ -34,17 +33,16 @@ Here, you can find how JoyToKey is set to support the click, hold, and Modifier 
 <img src="./Evaluation_screenshots/Toggle%20function.png" width="580" title="Hold Settings" />
 
 
-### (S12) XAC
+### (S12) Xbox Adaptive Controller
+ It is a game controller device with big buttons that enables functions like mouse click. It can also facilitate connecting JoyToKey to the External button, as an adapter. It is useful when the user has trouble to use click functions of mouse. The Xbox Adaptive Controller is added using the bluetooth:## (S12) XAC
 The Xbox Adaptive Controller is added using the bluetooth:
 
 <img src="./Evaluation_screenshots/Adding_XAC.png" width="580" title="S12" />
 
 ### (S15) Google chrome apps and extensions
-Here is the ‘Vimium Extension’ which is a Google chrome extensions to support in various mouse related functions:
+These are add on features in Google Chrome browser and Firefox that provide extra features to users. It is useful for users who don’t have the dexterity required for moving and clicking the mouse. A simple hovering over an item can perform the click function. There are several extensions. We explain one of them here, i.e., Vimium. It is useful for users who cannot use the mouse for pointing but can use regular keyboard. Here is the ‘Vimium Extension’ that supports in various mouse related functions:
 
 <img src="./Evaluation_screenshots/Vimium_Extension.jpg" width="580" title="Vimium" />
-
-
 
 We can find the ‘Vimium Help’  (by clicking ‘?’) where we can see the keyboard shortcuts for various mouse related functions like scroll.
 
@@ -52,7 +50,7 @@ We can find the ‘Vimium Help’  (by clicking ‘?’) where we can see the ke
 
 
 ### (S20) Speech recognition input
-Here are the settings which need to be activated and set for proper functioning of the speech recognition inputs:
+ It is a software feature that performs functions like mouse click using voice control. An example is Mouse Grid in windows 10 that partition the screen into grids and users can click or perform other functions on these grids using voice. Here are the settings which need to be activated and set for proper functioning of the speech recognition inputs:
 
 <img src="./Evaluation_screenshots/SpeechRecognition_settings.jpg" width="580" title="Speech Recognition settings" />
 
@@ -60,7 +58,7 @@ Here are the settings which need to be activated and set for proper functioning 
 ## Experiments
 
 ### (S06) Sticky keys
-Here is the screenshot showing how sticky keys enabled typing code in Google Colab to support usage of PM4Py:
+In this experiment, the sticky keys gave support in typing with the modifier keys (Shift keys, Control keys, Alt keys and windows keys). Here is the screenshot showing how sticky keys enabled typing code in Google Colab to support usage of PM4Py:
 
 <img src="./Evaluation_screenshots/PM4PY_Sticky_Keys%20.png" width="580" title="S06" />
 
@@ -74,7 +72,7 @@ Here, you can find screenshots of using the external buttons. Note that we neede
 
 
 ### (S10) Joy Stick
-Here is the screenshots of the joy stick:
+The Joy Stick helped in pointing the target area without any uninteded clicks. Here is the screenshots of the joy stick:
 
 <img src="./Evaluation_screenshots/JoyStick.jpg" width="580" title="S10" />
 
@@ -85,8 +83,7 @@ Here is the button assignment that translate the mouse clicks to the external bu
 <img src="./Evaluation_screenshots/Click%20Settings.png" width="580" title="S11" />
 
 ### (S15) Google chrome apps and extensions
-Screenshot showing the ‘Scroll down’ using the keyboard shortcut ‘J/j’ by virtue of ‘Vimium’:
-
+Here is screenshot showing the ‘Scroll down’ using the keyboard shortcut ‘J/j’ by virtue of ‘Vimium’ that reduces the mouse function for viewing through the page:
 <img src="./Evaluation_screenshots/Vimium_Scroll.png" width="580" title="S15" />
 
 
