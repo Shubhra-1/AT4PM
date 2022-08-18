@@ -8,9 +8,11 @@ This device is useful when the user needs accessible (as per their level of disa
 <img src="./images/S01%20Switch_interface_unit.jpg" width="280" title="Switch interface unit" />
 
 ## S02. Equipment that position facilities
-    These are equipment helping users to adjust their working position. They are useful for users who need the monitors, keyboards and tabletops adjusted to their accessible range so that they can work independently~\cite{burgstahler2002working}.
+These are equipment helping users to adjust their working position. They are useful for users who need the monitors, keyboards and tabletops adjusted to their accessible range so that they can work independently. For example, here are few such equipments:
 
-![test image](./images/S01%20example.jpg =10x20)
+<img src="./images/S02%20Adjustable_Keyboards.png" width="380" title="Adjustable Keyboards" />
+<img src="./images/S02%20AdjustableStand_Monitors.png" width="280" title="Adjustable_Stands" />
+<img src="./images/S02%20Adjustable_Tables.png" width="280" title="Adjustable_Tables" />
 
 ## S03. Keyguard
 It is a plate with holes at the accurate key spots ensuring that correct key is pressed. It is useful for users who face difficulties in hitting the correct keys on the keyboard. 
