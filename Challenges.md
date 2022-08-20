@@ -1,39 +1,61 @@
-There were several challenges encountered by motor impaired students. These challenges are classified and explained below.
+There are several challenges encountered by motor impaired students. These challenges are classified into into input and documentation challenges. These are explained below:
 
 # Input Challenges
 
 ## Accessible Environment:
-It concerns the accessibility due to lack of their proper positioning.
-### i) power switches (CH01)
-### ii) keyboards (CH02)
-### iii) monitors (CH03) 
+It concerns the accessibility due to lack of proper positioning of facilities. Accessible environment can be further divided into:
+
+### i) Power switches (CH01)
+### ii) Keyboards (CH02)
+### iii) Monitors (CH03) 
 
 ## Fine motor control:
-It includes challenges requiring minor adjustments in existing input devices for the motor disabled person with reduced function in a finger, an arm, etc. It includes
-### i) accidental key strokes (CH04): 
-It causes clicking the wrong key due to lack of control
-### ii) one-sided access (CH05)
-that is the lack of function in one of the limbs
-### iii) fine cursor movement (CH06)
-that is the lack of ability to move the cursor to the intended point accurately
-### iv) use of combine keys (CH07)
-that refers to lack of pressing two keys at once like ctrl+c
-### v) key pressed longer than intended (CH08)
-that refers to lack of speed in clicking some keys to prevent repeated actions, e.g., pressing a dash (-) key longer means that it will produce a dashed-line. 
+It includes challenges requiring minor adjustments in existing input devices for the motor disabled person with reduced function in a finger, an arm, etc. It includes the following:
+
+### i) Accidental key strokes (CH04): 
+It causes clicking the wrong key due to lack of control.
+### ii) One-sided access (CH05)
+It is the lack of function in one of the upper limbs.
+### iii) Fine cursor movement (CH06)
+It is due to the lack of ability to move the cursor to the intended point, accurately.
+### iv) Use of modifier keys (CH07)
+It refers to the inability of pressing two keys at once like ctrl+c.
+### v) Key pressed longer than intended (CH08)
+It refers to lack of speed in clicking some keys to prevent repeated actions, e.g., pressing a dash (-) key longer means that it will produce a dashed-line. 
 
 ## Regular input device:
-Four challenges representing difficulty to perform some functions
-### i) click function (CH09)
-### ii) cursor pointing (CH10)
-### iii) hold function (CH11)
-### iv) scroll function (CH12).
-### v) reaching keys on keyboard (CH13)
-### vi) strength to press a key (CH14).
+It refers to the challenges in using the regular input device. It can be broadly classified under mouse and keyboard functions.
 
-## severely hampered motor abilities:
+The mouse inputs can be divided into following:
+
+### i) Click function (CH09)
+It refers to the left and right click of the mouse due to the lack of finger movement.
+### ii) Cursor pointing (CH10)
+It deals with the inability to control and move the mouse for cursor placement.
+### iii) Hold function (CH11)
+It is the inability to click, hold and move the mouse. It is caused due to lack of functioning of wrist and fingers.
+### iv) Scroll function (CH12)
+The difficulty in moving the scroll bar is marked by this challenge. It comprises of click, hold and move functionalities.
+
+The keyboard functions that pose a challenge are:
+
+### v) Reaching keys on keyboard (CH13)
+It concerns with inability to reach the keys on keyboard due to motor restrictions.
+### vi) Strength to press a key (CH14)
+It refers to the lack of strength to press the keys on a regular keyboard.
+
+## Severely hampered motor abilities:
+Severe motor disability can cause complete immobility of the body. Below are two such cases:
+
 ### i) completely immobile upper limb with speech control (CH15)
+This indicates the person can only use voice commands and cannot use other parts of the body.
 ### ii) completely immobile upper limb without speech control (CH16)
+This indicates the person can neither use voice nor use other parts of the body.
+
 
 # Documentation Challenges
+Motor challenged students face many difficulties while documenting. These can be segmented into:
 ## i) reading a physical document(CH17)
+It refers to the challenges faced in reading and accessing physical documents.
 ## ii) accessing 'help' online (CH18)
+This challenge is regarding accessing online help for managing various documentation supports.
