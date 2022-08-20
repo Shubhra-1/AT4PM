@@ -1,3 +1,7 @@
+The challenges encountered by the students with motor disability:
+
+* [Challenges](./Challenges.md)
+
 The identified challenges for motor disability were mapped to probable soutions. These solutions are explained below:
 
 * [Solutions](./Solutions.md)
