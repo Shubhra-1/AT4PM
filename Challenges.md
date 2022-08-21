@@ -60,6 +60,6 @@ This indicates the person can neither use voice nor use other parts of the body.
 # Documentation Challenges
 Motor challenged students face many difficulties while documenting. These can be segmented into:
 ## i) reading a physical document(CH17)
-It refers to the challenges faced in reading and accessing physical documents.
+It refers to the challenges faced in reading and accessing physical documents like turning pages, making notes, etc.
 ## ii) accessing 'help' online (CH18)
 This challenge is regarding accessing online help for managing various documentation supports.
