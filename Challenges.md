@@ -1,4 +1,4 @@
-There are several challenges encountered by motor impaired students. These challenges are classified into input and documentation challenges. These are explained below:
+There are several challenges encountered by motor impaired students. These challenges are classified into input and documentation challenges which are explained below:
 
 # Input Challenges:
 These consist of challenges that occur during the input of data into the computer. There are four major input challenges faced by motor disabled:
