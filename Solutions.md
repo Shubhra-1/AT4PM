@@ -147,10 +147,10 @@ Scanning generates a PDF document that is a combination of "images" of the pages
 <img src="./images/S26%20OCR.png" width="490" title="OCR" />
 
 ## S27. Electronic reading 
-It is a software that reads the text. It helps in enabling the user in accessing the documents including shifting pages etc.
+It is a software that helps in reading the text. This includes turning the pages, making notes, highlighting points, etc.
 
 ## S28. Electronic references 
-These are software features that enable managing citations and referencing documents electronically. These electronic libraries and e-books ensure citations.
+These are software features that enable managing citations and referencing of the documents, electronically. These electronic libraries and e-books ensure easy referencing.
 
 ## S29. Virtual assistance 
 It is a tool that enable users to perform different functions like opening applications, taking dictations and much more, simply by  the use of voice commands.
