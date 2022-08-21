@@ -51,15 +51,15 @@ It refers to the lack of strength to press the keys on a regular keyboard.
 ## Severely hampered motor abilities:
 Severe motor disability can cause complete immobility of the body. Below are two such cases:
 
-### i) completely immobile upper limb with speech control (CH15)
+### i) Completely immobile upper limb with speech control (CH15)
 This indicates the person can only use voice commands and cannot use other parts of the body.
-### ii) completely immobile upper limb without speech control (CH16)
+### ii) Completely immobile upper limb without speech control (CH16)
 This indicates the person can neither use voice nor use other parts of the body.
 
 
 # Documentation Challenges
 Motor challenged students face many difficulties while documenting. These can be segmented into:
-## i) reading a physical document(CH17)
+## i) Reading a physical document(CH17)
 It refers to the challenges faced in reading and accessing physical documents like turning pages, making notes, etc.
-## ii) accessing 'help' online (CH18)
+## ii) Accessing 'help' online (CH18)
 This challenge is regarding accessing online help for managing various documentation supports.
