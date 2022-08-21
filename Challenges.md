@@ -1,13 +1,17 @@
-There are several challenges encountered by motor impaired students. These challenges are classified into into input and documentation challenges. These are explained below:
+There are several challenges encountered by motor impaired students. These challenges are classified into input and documentation challenges. These are explained below:
 
-# Input Challenges
+# Input Challenges:
+These consist of challenges that occur during the input of data into the computer. There are four major input challenges faced by motor disabled:
 
 ## Accessible Environment:
 It concerns the accessibility due to lack of proper positioning of facilities. Accessible environment can be further divided into:
 
 ### i) Power switches (CH01)
+It refers to the inaccessible power switches for motor impared students.
 ### ii) Keyboards (CH02)
+This challenge is about the lack of proper positioning of the keyboards.
 ### iii) Monitors (CH03) 
+This challenge is about the lack of proper positioning of the Monitors.
 
 ## Fine motor control:
 It includes challenges requiring minor adjustments in existing input devices for the motor disabled person with reduced function in a finger, an arm, etc. It includes the following:
