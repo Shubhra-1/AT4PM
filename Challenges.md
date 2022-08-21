@@ -9,7 +9,7 @@ It concerns the accessibility due to lack of proper positioning of facilities. A
 ### i) Power switches (CH01)
 It refers to the inaccessible power switches for motor impared students. Its solution is given by [S01](https://github.com/Shubhra-1/AT4PM/blob/main/Solutions.md)
 ### ii) Keyboards (CH02)
-This challenge is about the lack of proper positioning of the keyboards.
+This challenge is about the lack of proper positioning of the keyboards. [S02](S02. Equipment that position facilities)
 ### iii) Monitors (CH03) 
 This challenge is about the lack of proper positioning of the Monitors.
 
