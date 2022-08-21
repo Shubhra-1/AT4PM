@@ -7,7 +7,7 @@ These consist of challenges that occur during the input of data into the compute
 It concerns the accessibility due to lack of proper positioning of facilities. Accessible environment can be further divided into:
 
 ### i) Power switches (CH01)
-It refers to the inaccessible power switches for motor impared students. Its solution is given by [S01](https://github.com/Shubhra-1/AT4PM/blob/main/Solutions.md)
+It refers to the inaccessible power switches for motor impared students.
 ### ii) Keyboards (CH02)
 This challenge is about the lack of proper positioning of the keyboards.
 ### iii) Monitors (CH03) 
