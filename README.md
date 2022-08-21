@@ -1,4 +1,4 @@
-The challenges encountered by the students with motor disability:
+The challenges encountered by the students with motor disability, while using a computer, are given below:
 
 * [Challenges](./Challenges.md)
 
